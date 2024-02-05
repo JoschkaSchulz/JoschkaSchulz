@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋,
+
+It's me, Joschka. I'm a Ruby developer based in the rainy city of Hamburg, Germany. I love writing and testing new things. 
+
+If you want to have a beer and talk about code, you can find me at the ruby usergroup in hamburg or at conferences like ruby kaigi in japan or ruby unconf in hamburg.
+
+I'm currently writing a small tool to help Dungeon and Dragon players create characters. Wish me luck that I get it to a releasable version and not start another thing that interests me :D
+
+Interesting things  
+[rughh - Ruby Usergroup Hamburg (Germany)](https://hamburg.onruby.de/)
 
 <!--
 **JoschkaSchulz/JoschkaSchulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
